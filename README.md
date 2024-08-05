@@ -15,6 +15,32 @@ This section provides an overview of the Next.js course designed to help individ
 
 The slides for the Next.js course are available [here](https://www.canva.com/design/DAGK9Y4Cvb0/Tnngd9YNIPRykk-dqOnEKA/view?utm_content=DAGK9Y4Cvb0&utm_campaign=designshare&utm_medium=link&utm_source=editor). They provide detailed explanations and examples to guide you through each module of the course.
 
+## Workshop August 3rd Recap
+
+You can watch the full workshop video here: [TechConMe Workshop Video](https://youtu.be/Oj1L3BuIJuw).
+
+Here’s a recap of the key moments from the workshop:
+
+1. **Explanation of Next.js and Its Benefits**  
+   Next.js is a powerful React framework that simplifies building fast, user-friendly web applications. We explored its benefits, including improved performance and simplified development.
+
+2. **Concept of Server-Side Rendering**  
+   Server-side rendering was explained as a key feature of Next.js, enabling faster load times and improved SEO. If you want to learn more about how hydration works, visit this [article](https://nextjs.org/docs/app/building-your-application/rendering/server-side-rendering#hydration).
+
+3. **Installation and Setup of Next.js**  
+   We demonstrated how to set up a Next.js project, including the installation process and configuration of the development environment.
+
+4. **Exploring the Project Structure and Default Files**  
+   A walkthrough of the Next.js project structure helped clarify the roles of various default files and folders.
+
+5. **Explanation of the App Folder and Routing**  
+   We delved into the app folder and how routing is managed in Next.js, emphasizing its simplicity compared to traditional React routing.
+
+You can watch the full workshop video here: [TechConMe Workshop Video](https://youtu.be/Oj1L3BuIJuw).
+
+## Next Workshop
+
+Join us for our next session on **Saturday, August 10th**, where we will continue to explore advanced topics in Next.js. Stay tuned for more details!
 
 
 # TechConMe Conference App
