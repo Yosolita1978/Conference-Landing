@@ -13,9 +13,12 @@ This section provides an overview of the Next.js course designed to help individ
 
 ### How to Access the Slides
 
-The slides for the Next.js course are available [here](https://www.canva.com/design/DAGK9Y4Cvb0/Tnngd9YNIPRykk-dqOnEKA/view?utm_content=DAGK9Y4Cvb0&utm_campaign=designshare&utm_medium=link&utm_source=editor). They provide detailed explanations and examples to guide you through each module of the course.
+The slides for the second session Next.js course are available [here](https://www.canva.com/design/DAGNY0eIef4/LftWamSnFsfUzTf4WN5q1g/view?utm_content=DAGNY0eIef4&utm_campaign=designshare&utm_medium=link&utm_source=editor). 
+
 
 ## Workshop August 3rd Recap
+
+The slides for the first session Next.js course (August 03) are available [here](https://www.canva.com/design/DAGK9Y4Cvb0/Tnngd9YNIPRykk-dqOnEKA/view?utm_content=DAGK9Y4Cvb0&utm_campaign=designshare&utm_medium=link&utm_source=editor). They provide detailed explanations and examples to guide you through each module of the course.
 
 You can watch the full workshop video here: [TechConMe Workshop Video](https://youtu.be/Oj1L3BuIJuw).
 
