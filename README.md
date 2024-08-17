@@ -11,7 +11,21 @@ This section provides an overview of the Next.js course designed to help individ
 - **Data Fetching:** Understand data fetching strategies in Next.js, including static generation and server-side rendering.
 - **Deployment:** Learn how to deploy Next.js applications to production using platforms like Vercel and Netlify.
 
+### Next Workshops
+
+- **Second Session (August 10th):**  
+  The second session took place on Saturday, August 10th, and the video is available on YouTube [here](https://youtu.be/jFLXJEsLmRA).
+
+- **Third Session (Today, August 17th):**  
+  The third session will be held today, Saturday, August 17th, and the slides are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+- **Fourth Session (Upcoming, August 24th):**  
+  The fourth session is scheduled for Saturday, August 24th, at 11 a.m.
+
+
 ### How to Access the Slides
+
+The third session will be held Saturday, August 17th, and the slides are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 The slides for the second session Next.js course are available [here](https://www.canva.com/design/DAGNY0eIef4/LftWamSnFsfUzTf4WN5q1g/view?utm_content=DAGNY0eIef4&utm_campaign=designshare&utm_medium=link&utm_source=editor). 
 
