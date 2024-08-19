@@ -13,28 +13,28 @@ This section provides an overview of the Next.js course designed to help individ
 
 ### Next Workshops
 
-- **Second Session (August 10th):**  
-  The second session took place on Saturday, August 10th, and the video is available on YouTube [here](https://youtu.be/jFLXJEsLmRA).
-
-- **Third Session (Today, August 17th):**  
-  The third session will be held today, Saturday, August 17th, and the slides are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
-
 - **Fourth Session (Upcoming, August 24th):**  
-  The fourth session is scheduled for Saturday, August 24th, at 11 a.m.
+  The fourth session is scheduled for Saturday, August 24th, at 11 a.m. PST. Don’t forget to join us as we dive deeper into using data with Next.js and explore the useMemo hook.
 
+- **Third Session (August 17th):**  
+  The third session was held on Saturday, August 17th, and the video is available on YouTube [here](https://youtu.be/ihgin3Jvs88). The slides are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+- **Second Session (August 10th):**  
+  The second session took place on Saturday, August 10th, and the video is available on YouTube [here](https://youtu.be/jFLXJEsLmRA). The slides are available [here](https://www.canva.com/design/DAGNY0eIef4/LftWamSnFsfUzTf4WN5q1g/view?utm_content=DAGNY0eIef4&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ### How to Access the Slides
 
-The third session will be held Saturday, August 17th, and the slides are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+- **Third Session Slides (August 17th):**  
+  The slides for the third session are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
-The slides for the second session Next.js course are available [here](https://www.canva.com/design/DAGNY0eIef4/LftWamSnFsfUzTf4WN5q1g/view?utm_content=DAGNY0eIef4&utm_campaign=designshare&utm_medium=link&utm_source=editor). 
+- **Second Session Slides (August 10th):**  
+  The slides for the second session are available [here](https://www.canva.com/design/DAGNY0eIef4/LftWamSnFsfUzTf4WN5q1g/view?utm_content=DAGNY0eIef4&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
+### Full Course Playlist
 
-## Workshop August 3rd Recap
+You can access the full course playlist here: [TechConMe Workshop Playlist](https://www.youtube.com/playlist?list=PLH72tRyNBul4xwHGPuduuoUuQ1b2qz1Bc). 
 
-The slides for the first session Next.js course (August 03) are available [here](https://www.canva.com/design/DAGK9Y4Cvb0/Tnngd9YNIPRykk-dqOnEKA/view?utm_content=DAGK9Y4Cvb0&utm_campaign=designshare&utm_medium=link&utm_source=editor). They provide detailed explanations and examples to guide you through each module of the course.
-
-You can watch the full workshop video here: [TechConMe Workshop Video](https://youtu.be/Oj1L3BuIJuw).
+This playlist includes all sessions of the Next.js course, providing detailed explanations and examples to guide you through each module.
 
 Here’s a recap of the key moments from the workshop:
 
