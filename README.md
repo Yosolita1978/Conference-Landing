@@ -13,8 +13,9 @@ This section provides an overview of the Next.js course designed to help individ
 
 ### Next Workshops
 
-- **Fourth Session (Upcoming, August 24th):**  
-  The fourth session is scheduled for Saturday, August 24th, at 11 a.m. PST. Don’t forget to join us as we dive deeper into using data with Next.js and explore the useMemo hook.
+- **Fourth Session (Upcoming, August 31st):**  
+  The fourth session is scheduled for today, Saturday, August 31st, at 11 a.m. PST. Don’t forget to join us as we dive deeper into using data with Next.js, explore the useMemo hook, and learn how to manage data using Firebase with CRUD operations. The new slides for this session are available [here](https://www.canva.com/design/DAGPcZdWzuo/Se9SF7j4SgFWjKfXpWeljQ/view?utm_content=DAGPcZdWzuo&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
 
 - **Third Session (August 17th):**  
   The third session was held on Saturday, August 17th, and the video is available on YouTube [here](https://youtu.be/ihgin3Jvs88). The slides are available [here](https://www.canva.com/design/DAGOHxNeySc/P-jHy34W2Fz7UINxfNDiOg/view?utm_content=DAGOHxNeySc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
